@@ -1,5 +1,5 @@
 # Quiz App
-This is the Quiz App made as a part of Udacity-Google Android Basics Nanodegree Project.
+Quiz для топ 2% мира IQ тренажёр тестов
 
 Some of the app screenshots:
 
